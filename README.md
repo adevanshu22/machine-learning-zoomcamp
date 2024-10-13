@@ -1,3 +1,3 @@
 # machine-learning-zoomcamp
 
-### Sample Readme text
+Contains homework and practice materials related to ml-zoomcamp
